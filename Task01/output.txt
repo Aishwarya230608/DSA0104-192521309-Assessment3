@@ -1,0 +1,4 @@
+Title: Untitled, copies: 0
+Title: C++ Primer, copies: 1
+Title: Data Structures, copies: 5
+Rejected: copies cannot be negative

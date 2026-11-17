@@ -1,0 +1,9 @@
+Created Morning (2x3)
+Book seat: true
+Created Afternoon (1x2)
+Closed Afternoon
+Created Evening (1x4)
+Closed Evening
+Created Empty (0x0)
+Closed Empty
+Closed Morning

@@ -1,0 +1,2 @@
+[copy constructor] deep copy of 2 medicines
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
